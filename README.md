@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on fivem scripts using lua
+🔭 I’m currently working on fivem scripts using LUA
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ArChrisVa&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
