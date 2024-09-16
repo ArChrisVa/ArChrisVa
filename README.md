@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a highly motivated Computer Science graduate with strong foundation in software development and algorithms. 
+A highly motivated Computer Science graduate with strong foundation in software development and algorithms. 
 Team player, supporter of maintainable software.
 
 I’m currently working on Fivem Development using LUA
