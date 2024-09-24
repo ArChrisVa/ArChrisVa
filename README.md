@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working on Fivem Development using LUA, Typescript and React
+I’m currently working on Fivem Development using Lua, Typescript and React
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ArChrisVa&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
