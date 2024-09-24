@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there 👋
 
 I’m currently working on Fivem Development using Lua, Typescript and React
@@ -19,7 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-<div align="center">
 <img src="https://github.com/user-attachments/assets/cdc74e67-f23e-4930-b548-d5fa005a53f1" width="100">
 <img src="https://github.com/user-attachments/assets/667654db-5167-4c9f-8cba-65204dd92fe3" width="100">
 <img src="https://github.com/user-attachments/assets/80220408-f9c2-4aa0-bd94-5ed5c7979bc4" width="100">
