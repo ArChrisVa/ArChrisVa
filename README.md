@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b](https://github.com/user-attachments/assets/cdc74e67-f23e-4930-b548-d5fa005a53f1)
+<img> src(https://github.com/user-attachments/assets/cdc74e67-f23e-4930-b548-d5fa005a53f1 width=100)
+<img src="https://github.com/user-attachments/assets/cdc74e67-f23e-4930-b548-d5fa005a53f1" width="100">
 
