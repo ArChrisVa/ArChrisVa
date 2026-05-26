@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Streak](https://streak-stats.demolab.com/?user=ArChrisVa&theme=tokyonight)
+<table align="center" border="0">
+<tr>
+<td><img src="https://github.githubassets.com/images/mona-loading-default.gif" width="120"></td>
+<td><img src="https://streak-stats.demolab.com/?user=ArChrisVa&theme=tokyonight"></td>
+<td><img src="https://github.githubassets.com/images/mona-loading-default.gif" width="120"></td>
+</tr>
+</table>
