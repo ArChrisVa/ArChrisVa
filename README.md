@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ArChrisVa&show_icons=true&theme=tokyonight&v=2)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArChrisVa&layout=compact&theme=tokyonight&v=2)
 ![Streak](https://streak-stats.demolab.com/?user=ArChrisVa&theme=tokyonight)
