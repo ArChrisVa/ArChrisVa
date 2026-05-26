@@ -14,14 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,12,20&height=120&section=header&fontColor=ff6b35&fontSize=50&animation=fadeIn">
-
-<table align="center" border="0">
-<tr>
-<td>
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=ArChrisVa&theme=dark">
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&reversal=true">
+</p>
