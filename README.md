@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 -->
 <table align="center" border="0">
 <tr>
-<td><img src="https://github.githubassets.com/images/mona-loading-default.gif" width="120"></td>
-<td><img src="https://streak-stats.demolab.com/?user=ArChrisVa&theme=tokyonight"></td>
-<td><img src="https://github.githubassets.com/images/mona-loading-default.gif" width="120"></td>
+<td>
+  <img src="https://api.dicebear.com/7.x/lorelei/svg?seed=Chris&backgroundColor=1a1b27" width="180">
+</td>
+<td>
+  <img src="https://streak-stats.demolab.com/?user=ArChrisVa&theme=tokyonight">
+</td>
+<td>
+  <img src="https://api.dicebear.com/7.x/lorelei/svg?seed=Code&backgroundColor=1a1b27" width="180">
+</td>
 </tr>
 </table>
